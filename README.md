@@ -1,3 +1,5 @@
+A dynamic news platform built with Next.js that fetches real-time news articles from the NewsData.io API. Users can browse top headlines, view detailed articles, filter by categories, and bookmark their favorite stories. The app features server-side rendering, Tailwind CSS styling, and context-based state management for bookmarks.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
